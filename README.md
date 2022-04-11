@@ -1,5 +1,5 @@
 # Inventory_Management_System
-OBJECTIVE: To make a database management system that is clutter-free,
+OBJECTIVE: To make a web application that is clutter-free,
 user-friendly, which has an efficient smooth process that adds the product’s
 name, price, id and quantity in this system. This project makes a convenient
 way for the store/inventory admin to keep the records of products and orders
